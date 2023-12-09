@@ -1,0 +1,15 @@
+.main-questions{
+    min-height: 650px;
+    background-color: aqua;
+}
+.container-questions{
+    background-color:#e57373 ;
+    width: 70%;
+    height: 650px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}

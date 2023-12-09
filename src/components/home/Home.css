@@ -1,0 +1,26 @@
+.main{
+    background-color: #e57373;
+}
+.container{
+    min-height: 650px;
+    width: 30%;
+    height: 400px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    height: 40px;
+    width: 85px;
+    border: none;
+    border-radius: 7px;
+    background-color: #e57373;
+
+}
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
